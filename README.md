@@ -29,7 +29,7 @@ I’ve been building scalable systems, REST APIs, and leading from the backend e
 From <b>PHP</b> to <b>Python</b>, from <b>MySQL</b> to <b>MongoDB</b>,<br/>
 I’ve shipped web apps, AI integrations, and backend systems that scale.<br/><br/>
 
-<b>10+ years</b> in the industry. Still building. Still leading. ⚡
+<b>10+ years</b> in the industry. Still building. Still leading. Still learning.⚡
 
 </div>
 
