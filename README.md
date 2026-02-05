@@ -247,7 +247,7 @@ If you’re:
 - Looking for a **Team Lead** or **senior backend engineer** who ships
 
 📩 **Ping me:**  
-`jainam4me@gmail.com` • [LinkedIn](https://linkedin.com/in/jainam5hah) • [Portfolio](https://jainam5hah.github.io) • [WhatsApp](https://wa.me/919722525415) • [Telegram @jainam5hah](https://t.me/jainam5hah)
+`jainam4me@gmail.com` • [LinkedIn](https://linkedin.com/in/jainam5hah) • [Portfolio](https://jainam5hah.github.io) • [WhatsApp](https://wa.me/919722525415) • [Telegram](https://t.me/jainam5hah)
 
 <p align="center">
   <img
