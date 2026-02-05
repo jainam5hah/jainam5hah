@@ -38,7 +38,7 @@ I’ve shipped web apps, AI integrations, and backend systems that scale.<br/><b
 <!-- Streaming / Typing Banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=850&color=0b5cff&lines=Team+Lead+%7C+Python+%26+PHP+Backend+Developer;Laravel+%7C+FastAPI+%7C+Flask+%7C+CodeIgniter;REST+APIs+%7C+MySQL+%7C+MongoDB+%7C+Redis+%7C+AWS;AI+Integration+%7C+GenAI+%7C+Auto+Ads+%7C+Fine+Tuning;Surat%2C+India"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=850&color=0b5cff&lines=Team+Lead+%7C+Python+%26+PHP+Backend+Developer;♟️+Chess+%E2%80%94+the+original+strategy+game+%28before+Jira%29;Laravel+%7C+FastAPI+%7C+Flask+%7C+CodeIgniter;REST+APIs+%7C+MySQL+%7C+MongoDB+%7C+Redis+%7C+AWS;AI+Integration+%7C+GenAI+%7C+Auto+Ads+%7C+Fine+Tuning;Surat%2C+India"
     alt="Jainam Typing Intro"
   />
 </p>
@@ -46,6 +46,7 @@ I’ve shipped web apps, AI integrations, and backend systems that scale.<br/><b
 <!-- Live Status + Social Row -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-BUILDING%20BACKENDS-10B981?style=for-the-badge&logo=codeigniter&logoColor=ffffff" alt="Live Status" />
+  <img src="https://img.shields.io/badge/♟️-Chess%20lover%20%7C%20Srimca%20Champ-1E3A8A?style=for-the-badge" alt="Chess" />
 </p>
 
 <p align="center">
@@ -198,45 +199,7 @@ On the web side:
 - **Publication:** *Actively Hierarchical Load Balancing Algorithm in Cloud Computing* — NJSIT, June 2015  
 - **Awards:** Srimca Chess Championship winner, AssembleIT Event winner  
 - **Volunteering:** Mozilla Firefox Student Ambassador (FSA), 2015–2016  
-
----
-
-## 📊 GitHub Stats
-
-### 🔥 Streak
-
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=jainam5hah&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-### 🏆 Trophy Wall
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=jainam5hah&theme=onedark&row=1&column=6"
-    alt="GitHub Trophies"
-  />
-</p>
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jainam5hah&theme=tokyo-night&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-### 👥 Social Stats
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/jainam5hah?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jainam5hah?label=Stars&style=social" alt="Stars" />
-</p>
+- **Interest:** ♟️ Chess — the original strategy game (before Jira). Still chasing that Srimca championship high.  
 
 ---
 
@@ -251,7 +214,7 @@ On the web side:
 ### 🧱 Pixel Avatar
 
 <p align="center">
-  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=Jainam" width="160" alt="Pixel Avatar" />
+  <img src="https://api.dicebear.com/6.x/pixel-art/svg?seed=JainamShah" width="160" alt="Pixel Avatar" />
 </p>
 
 ---
