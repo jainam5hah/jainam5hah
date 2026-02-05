@@ -37,25 +37,34 @@ I’ve shipped web apps, AI integrations, and backend systems that scale.<br/><b
 
 <!-- Live Status + Social Row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-BUILDING%20BACKENDS-10B981?style=for-the-badge&logo=codeigniter&logoColor=ffffff" alt="Live Status" />
-  <img src="https://img.shields.io/badge/♟️-Chess%20lover%20%7C%20Srimca%20Champ-1E3A8A?style=for-the-badge" alt="Chess" />
+  <img src="https://img.shields.io/badge/Status-Team%20Lead%20%7C%20Building%20Backend-10B981?style=for-the-badge" alt="Live Status" />
+  <a href="https://jainam5hah.github.io" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Portfolio-jainam5hah.github.io-0F766E?style=for-the-badge" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://jainam5hah.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-jainam5hah.github.io-0F766E?style=for-the-badge&logo=githubpages&logoColor=ffffff" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Chess-Srimca%20Champ-1E3A8A?style=for-the-badge" alt="Chess" />
+  <a href="mailto:jainam4me@gmail.com" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Email-jainam4me%40gmail.com-EA4335?style=for-the-badge" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/jainam5hah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jainam_Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+   <a href="https://wa.me/919722525415" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/WhatsApp-+91%2097225%2025415-25D366?style=for-the-badge" alt="WhatsApp" />
   </a>
-  <a href="mailto:jainam4me@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-jainam4me%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+  <a href="https://linkedin.com/in/jainam5hah" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/LinkedIn-@jainam5hah-0A66C2?style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/919722525415" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-97225%2025415-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="WhatsApp" />
+  <a href="https://x.com/jainam5hah" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/X-@jainam5hah-000000?style=for-the-badge" alt="X" />
   </a>
-  <a href="https://t.me/jainam5hah" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-@jainam5hah-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" />
+  <a href="https://t.me/jainam5hah" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Telegram-@jainam5hah-26A5E4?style=for-the-badge" alt="Telegram" />
+  </a>
+  <a href="https://instagram.com/jainam5hah" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Instagram-@jainam5hah-E4405F?style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/jainam5hah" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Facebook-@jainam5hah-1877F2?style=for-the-badge" alt="Facebook" />
   </a>
 </p>
 
@@ -197,7 +206,7 @@ On the web side:
 - **Publication:** *Actively Hierarchical Load Balancing Algorithm in Cloud Computing* — NJSIT, June 2015  
 - **Awards:** Srimca Chess Championship winner, AssembleIT Event winner  
 - **Volunteering:** Mozilla Firefox Student Ambassador (FSA), 2015–2016  
-- **Interest:** ♟️ Chess — the original strategy game (before Jira). Still chasing that Srimca championship high.  
+- **Interest:** ♟️ Chess — The original strategy game (before Jira). Still chasing that Srimca championship high.  
 
 ---
 
@@ -239,7 +248,7 @@ If you’re:
 - Looking for a **Team Lead** or **senior backend engineer** who ships
 
 📩 **Ping me:**  
-`jainam4me@gmail.com` • [LinkedIn](https://linkedin.com/in/jainam5hah) • [Portfolio](https://jainam5hah.github.io) • [WhatsApp](https://wa.me/919722525415) • [Telegram](https://t.me/jainam5hah)
+[Email](mailto:jainam4me@gmail.com) • [LinkedIn](https://linkedin.com/in/jainam5hah) • [Portfolio](https://jainam5hah.github.io) • [WhatsApp](https://wa.me/919722525415) • [Telegram](https://t.me/jainam5hah) • [X](https://x.com/jainam5hah) • [Instagram](https://instagram.com/jainam5hah) • [Facebook](https://facebook.com/jainam5hah)
 
 <p align="center">
   <img
