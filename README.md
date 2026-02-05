@@ -38,7 +38,7 @@ I’ve shipped web apps, AI integrations, and backend systems that scale.<br/><b
 <!-- Streaming / Typing Banner -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=850&color=0b5cff&lines=Team+Lead+%7C+Python+%26+PHP+Backend+Developer;♟️+Chess+%E2%80%94+the+original+strategy+game+%28before+Jira%29;Laravel+%7C+FastAPI+%7C+Flask+%7C+CodeIgniter;REST+APIs+%7C+MySQL+%7C+MongoDB+%7C+Redis+%7C+AWS;AI+Integration+%7C+GenAI+%7C+Auto+Ads+%7C+Fine+Tuning;Surat%2C+India"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=850&color=0b5cff&lines=Team+Lead+%7C+Python+%26+PHP+Backend+Developer;Laravel+%7C+FastAPI+%7C+Flask+%7C+CodeIgniter;REST+APIs+%7C+MySQL+%7C+MongoDB+%7C+Redis+%7C+AWS;AI+Integration+%7C+GenAI+%7C+Auto+Ads+%7C+Fine+Tuning;Surat%2C+India"
     alt="Jainam Typing Intro"
   />
 </p>
@@ -58,6 +58,12 @@ I’ve shipped web apps, AI integrations, and backend systems that scale.<br/><b
   </a>
   <a href="mailto:jainam4me@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-jainam4me%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+  </a>
+  <a href="https://wa.me/919722525415" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-97225%2025415-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/jainam5hah" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@jainam5hah-26A5E4?style=for-the-badge&logo=telegram&logoColor=ffffff" alt="Telegram" />
   </a>
 </p>
 
@@ -241,7 +247,7 @@ If you’re:
 - Looking for a **Team Lead** or **senior backend engineer** who ships
 
 📩 **Ping me:**  
-`jainam4me@gmail.com` • [LinkedIn](https://linkedin.com/in/jainam5hah) • [Portfolio](https://jainam5hah.github.io)
+`jainam4me@gmail.com` • [LinkedIn](https://linkedin.com/in/jainam5hah) • [Portfolio](https://jainam5hah.github.io) • [WhatsApp](https://wa.me/919722525415) • [Telegram @jainam5hah](https://t.me/jainam5hah)
 
 <p align="center">
   <img
