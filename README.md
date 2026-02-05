@@ -35,14 +35,6 @@ I’ve shipped web apps, AI integrations, and backend systems that scale.<br/><b
 
 ---
 
-<!-- Streaming / Typing Banner -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=850&color=0b5cff&lines=Team+Lead+%7C+Python+%26+PHP+Backend+Developer;Laravel+%7C+FastAPI+%7C+Flask+%7C+CodeIgniter;REST+APIs+%7C+MySQL+%7C+MongoDB+%7C+Redis+%7C+AWS;AI+Integration+%7C+GenAI+%7C+Auto+Ads+%7C+Fine+Tuning;Surat%2C+India"
-    alt="Jainam Typing Intro"
-  />
-</p>
-
 <!-- Live Status + Social Row -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-BUILDING%20BACKENDS-10B981?style=for-the-badge&logo=codeigniter&logoColor=ffffff" alt="Live Status" />
